@@ -10,9 +10,20 @@
  ![bestia-dev](https://bestia.dev/webpage_hit_counter/get_svg_image/2044960416.svg)
 
 Hashtags: #rustlang #tutorial  
-My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
+
+## Welcome to bestia.dev !
 
 Visit my web page: [bestia.dev](https://bestia.dev)
+
+I worked for 30 years on commercial projects. It was hard, but fun. I am on a long vacation now and I have time to learn a new programming language. I want to share my learning path with beginners.
+
+Read some descriptions of "dev" in urbandictionary.com :-DDD
+
+## Tutorials
+
+Most of my work is more like a tutorial then a finished product:  [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).  
+Have fun and enjoy learning what I learn. I try to make it easy as possible.  
+Rust, Wasm/Webassembly, Progressive Web App, web servers, CLI (command line interface), library/crates, docker containers, ...  
 
 ## youtube video tutorial
 
