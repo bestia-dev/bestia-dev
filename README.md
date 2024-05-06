@@ -5,6 +5,7 @@
 **Learning Rust and Wasm programming and having fun. I just love programming!**  
 ***version 1.0 date: 2024-05-06  author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/bestia-dev)***  
 
+ ![public-profile-readme](https://img.shields.io/badge/public_profile_readme-green)
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
  ![bestia-dev](https://bestia.dev/webpage_hit_counter/get_svg_image/2044960416.svg)
 
