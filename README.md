@@ -6,7 +6,7 @@
 ***version 1.0 date: 2024-05-06  author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/bestia-dev)***  
 
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
- ![bestia-dev](https://bestia.dev/webpage_hit_counter/get_svg_image/1058713884.svg)
+ ![bestia-dev](https://bestia.dev/webpage_hit_counter/get_svg_image/2044960416.svg)
 
 Hashtags: #rustlang #tutorial  
 My projects on GitHub are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
