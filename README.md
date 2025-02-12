@@ -6,6 +6,8 @@
 ***version 1.0 date: 2024-05-06  author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/bestia-dev)***  
 
  ![public-profile-readme](https://img.shields.io/badge/public_profile_readme-green)
+ ![maintained](https://img.shields.io/badge/maintained-green)
+ ![ready_for_use](https://img.shields.io/badge/ready_for_use-green)
  ![tutorial](https://img.shields.io/badge/tutorial-yellow)
  ![bestia-dev](https://bestia.dev/webpage_hit_counter/get_svg_image/2044960416.svg)
 
