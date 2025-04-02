@@ -43,7 +43,7 @@ Sometimes a single repository is not enought to contain a Project.
 To group repositories together GitHub invented Organizations. I have 2 of these:
 
 - [CRUSTDE-ContainerizedRustDevEnv](https://github.com/CRUSTDE-ContainerizedRustDevEnv/CRUSTDE_Containerized_Rust_DevEnv)
-- [automation-tasks-rs](https://github.com/automation-tasks-rs/automation-tasks-rs)
+- [automation-tasks-rs](https://github.com/automation-tasks-rs)
 
 ## Open-source and free as a beer
 
