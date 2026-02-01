@@ -3,7 +3,7 @@
 
 # bestia-dev
 
-⚠️ Attention! I am migrating from GitHub to Codeberg!  
+## ⚠️ Attention! I am migrating from GitHub to Codeberg in 2026!  
 https://codeberg.org/bestia-dev
 
 
